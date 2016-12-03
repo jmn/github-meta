@@ -1,6 +1,7 @@
 # Github Meta
 ## References
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- https://gist.github.com/dupuy/1855764
 
 ## Github Markdown
 ### Diff language
